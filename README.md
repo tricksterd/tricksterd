@@ -1,5 +1,5 @@
 # About Me:
-Passionate and driven about mobile app development, especially in Dart and Flutter.<br>Eager to learn and grow, always seeking new knowledge and skills.<br>Strong understanding of OOP principles, gained through academic studies and practical application.<br>🔧 Experienced with Git, Figma, and Jira, ensuring smooth development workflows.<br>Committed to continuous learning and growth within a collaborative team environment.
+Passionate and driven about mobile app development, especially in Dart and Flutter.<br>Eager to learn and grow, always seeking new knowledge and skills.<br>Strong understanding of OOP principles, gained through academic studies and practical application.<br>Experienced with Git, Figma, and Jira, ensuring smooth development workflows.<br>Committed to continuous learning and growth within a collaborative team environment.
 
 
 ## Socials:
